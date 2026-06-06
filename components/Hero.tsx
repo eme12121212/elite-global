@@ -5,7 +5,7 @@ const slides = [
   {
     badge: 'Leading Blockchain & Web3',
     title: 'Leading Blockchain, Web3 & Custom Software Development Company',
-    desc: 'AayaamX Technologies is a leading blockchain and Web3 development company delivering enterprise-grade custom software, fintech platforms, and decentralized applications.',
+    desc: 'Elite Global Solutions is a leading blockchain and Web3 development company delivering enterprise-grade custom software, fintech platforms, and decentralized applications.',
   },
   {
     badge: 'Next-Gen Web3 Infrastructure',
